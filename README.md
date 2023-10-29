@@ -1,1 +1,3 @@
 # Popular-Vote-Minimizer
+
+The President of the United States is not elected by a popular vote, but by a majority vote in the Electoral College. Each of the 50 states, plus DC, gets some number of electors in the Electoral College, and whoever they vote in becomes the next President. There are four occurrences where the winner of the Electoral College and eventual President Elect did not win the popular vote (plus the 1824 election where the House of Representatives decided the winner). This project explores the questions of: What is the fewest number of popular votes you could get and still be elected President of the United States of America?
